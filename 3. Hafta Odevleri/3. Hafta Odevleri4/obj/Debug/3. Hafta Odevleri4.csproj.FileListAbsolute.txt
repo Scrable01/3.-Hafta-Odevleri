@@ -1,0 +1,8 @@
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\bin\Debug\_3.Hafta_Odevleri4.exe.config
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\bin\Debug\_3.Hafta_Odevleri4.exe
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\bin\Debug\_3.Hafta_Odevleri4.pdb
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\obj\Debug\3. Hafta Odevleri4.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\obj\Debug\3. Hafta Odevleri4.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\obj\Debug\3. Hafta Odevleri4.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\obj\Debug\_3.Hafta_Odevleri4.exe
+C:\Users\enesm\source\repos\3. Hafta Odevleri\3. Hafta Odevleri4\obj\Debug\_3.Hafta_Odevleri4.pdb
